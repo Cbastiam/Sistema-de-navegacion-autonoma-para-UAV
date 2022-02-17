@@ -1,0 +1,101 @@
+Episode,endCause,numTimeSteps
+1,collide with an obstacule,103
+2,reached goal,170
+3,reached goal,157
+4,collide with an obstacule,34
+5,reached goal,201
+6,reached goal,170
+7,reached goal,131
+8,reached goal,180
+9,collide with an obstacule,22
+10,reached goal,164
+11,reached goal,186
+12,reached goal,147
+13,reached goal,210
+14,reached goal,274
+15,collide with an obstacule,26
+16,reached goal,145
+17,reached goal,208
+18,reached goal,144
+19,collide with an obstacule,26
+20,reached goal,226
+21,reached goal,230
+22,reached goal,158
+23,reached goal,144
+24,reached goal,148
+25,reached goal,151
+26,collide with an obstacule,25
+27,reached goal,249
+28,collide with an obstacule,8
+29,collide with an obstacule,21
+30,reached goal,162
+31,reached goal,146
+32,reached goal,139
+33,reached goal,265
+34,reached goal,154
+35,reached goal,186
+36,reached goal,219
+37,reached goal,232
+38,reached goal,156
+39,reached goal,270
+40,collide with an obstacule,22
+41,reached goal,273
+42,reached goal,168
+43,reached goal,234
+44,collide with an obstacule,34
+45,reached goal,204
+46,reached goal,223
+47,reached goal,198
+48,out of bounds,57
+49,reached goal,231
+50,reached goal,160
+51,reached goal,162
+52,reached goal,219
+53,reached goal,209
+54,reached goal,236
+55,reached goal,126
+56,collide with an obstacule,16
+57,collide with an obstacule,86
+58,reached goal,161
+59,reached goal,176
+60,reached goal,150
+61,collide with an obstacule,148
+62,reached goal,178
+63,reached goal,124
+64,collide with an obstacule,14
+65,reached goal,252
+66,collide with an obstacule,140
+67,reached goal,140
+68,collide with an obstacule,112
+69,reached goal,211
+70,max iterations,303
+71,collide with an obstacule,17
+72,reached goal,243
+73,collide with an obstacule,159
+74,reached goal,130
+75,reached goal,125
+76,reached goal,227
+77,reached goal,246
+78,reached goal,275
+79,reached goal,252
+80,collide with an obstacule,6
+81,reached goal,216
+82,reached goal,150
+83,collide with an obstacule,16
+84,reached goal,216
+85,reached goal,199
+86,collide with an obstacule,135
+87,reached goal,300
+88,reached goal,126
+89,collide with an obstacule,129
+90,reached goal,243
+91,collide with an obstacule,8
+92,reached goal,135
+93,collide with an obstacule,20
+94,reached goal,169
+95,reached goal,181
+96,reached goal,221
+97,collide with an obstacule,10
+98,reached goal,204
+99,collide with an obstacule,102
+100,reached goal,174

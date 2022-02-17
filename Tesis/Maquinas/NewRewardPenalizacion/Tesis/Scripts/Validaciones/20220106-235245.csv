@@ -1,0 +1,156 @@
+Episode,endCause,numTimeSteps
+1,reached goal,75
+2,reached goal,176
+3,collide with an obstacule,6
+4,collide with an obstacule,19
+5,reached goal,56
+6,max iterations,303
+7,collide with an obstacule,60
+8,max iterations,303
+9,reached goal,49
+10,reached goal,158
+11,reached goal,45
+12,reached goal,61
+13,max iterations,303
+14,max iterations,303
+15,reached goal,57
+16,max iterations,303
+17,reached goal,66
+18,reached goal,60
+19,reached goal,59
+20,reached goal,62
+21,max iterations,303
+22,reached goal,38
+23,collide with an obstacule,14
+24,reached goal,32
+25,collide with an obstacule,5
+26,reached goal,66
+27,max iterations,303
+28,collide with an obstacule,6
+29,reached goal,52
+30,collide with an obstacule,7
+31,out of bounds,298
+32,reached goal,156
+33,reached goal,122
+34,reached goal,224
+35,max iterations,303
+36,collide with an obstacule,30
+37,reached goal,47
+38,max iterations,303
+39,max iterations,303
+40,collide with an obstacule,36
+41,reached goal,44
+42,max iterations,303
+43,max iterations,303
+44,reached goal,80
+45,reached goal,53
+46,reached goal,36
+47,max iterations,303
+48,reached goal,143
+49,max iterations,303
+50,max iterations,303
+51,max iterations,303
+52,collide with an obstacule,10
+53,collide with an obstacule,117
+54,collide with an obstacule,6
+55,reached goal,51
+56,reached goal,39
+57,reached goal,47
+58,max iterations,303
+59,collide with an obstacule,20
+60,collide with an obstacule,58
+61,reached goal,48
+62,max iterations,303
+63,reached goal,99
+64,reached goal,49
+65,collide with an obstacule,15
+66,reached goal,65
+67,collide with an obstacule,28
+68,max iterations,303
+69,reached goal,116
+70,collide with an obstacule,15
+71,reached goal,82
+72,reached goal,57
+73,max iterations,303
+74,reached goal,83
+75,max iterations,303
+76,max iterations,303
+77,reached goal,60
+78,max iterations,303
+79,reached goal,78
+80,max iterations,303
+81,reached goal,51
+82,collide with an obstacule,4
+83,reached goal,80
+84,max iterations,303
+85,reached goal,59
+86,reached goal,82
+87,collide with an obstacule,45
+88,reached goal,191
+89,max iterations,303
+90,max iterations,303
+91,max iterations,303
+92,reached goal,62
+93,reached goal,40
+94,collide with an obstacule,4
+95,reached goal,64
+96,reached goal,45
+97,collide with an obstacule,20
+98,max iterations,303
+99,reached goal,46
+100,max iterations,303
+101,collide with an obstacule,12
+102,max iterations,303
+103,reached goal,42
+104,reached goal,59
+105,out of bounds,159
+106,collide with an obstacule,11
+107,max iterations,303
+108,reached goal,43
+109,reached goal,78
+110,max iterations,303
+111,reached goal,256
+112,max iterations,303
+113,max iterations,303
+114,collide with an obstacule,27
+115,out of bounds,107
+116,reached goal,48
+117,reached goal,83
+118,max iterations,303
+119,max iterations,303
+120,collide with an obstacule,166
+121,out of bounds,25
+122,collide with an obstacule,30
+123,reached goal,47
+124,reached goal,68
+125,reached goal,47
+126,max iterations,303
+127,max iterations,303
+128,reached goal,139
+129,max iterations,303
+130,reached goal,45
+131,reached goal,32
+132,reached goal,140
+133,reached goal,260
+134,reached goal,62
+135,max iterations,303
+136,reached goal,66
+137,reached goal,59
+138,max iterations,303
+139,reached goal,53
+140,reached goal,54
+141,collide with an obstacule,108
+142,reached goal,158
+143,reached goal,64
+144,reached goal,57
+145,collide with an obstacule,22
+146,max iterations,303
+147,reached goal,83
+148,reached goal,100
+149,reached goal,66
+150,collide with an obstacule,88
+151,out of bounds,34
+152,collide with an obstacule,18
+153,out of bounds,2
+154,reached goal,44
+155,collide with an obstacule,61
