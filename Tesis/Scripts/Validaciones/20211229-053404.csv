@@ -1,0 +1,301 @@
+Episode,endCause,numTimeSteps
+1,collide with an obstacule,90
+2,collide with an obstacule,102
+3,collide with an obstacule,56
+4,collide with an obstacule,80
+5,collide with an obstacule,123
+6,reached goal,154
+7,reached goal,226
+8,reached goal,127
+9,collide with an obstacule,33
+10,collide with an obstacule,118
+11,reached goal,139
+12,collide with an obstacule,87
+13,collide with an obstacule,167
+14,reached goal,198
+15,reached goal,233
+16,reached goal,243
+17,collide with an obstacule,177
+18,reached goal,127
+19,collide with an obstacule,70
+20,reached goal,146
+21,reached goal,251
+22,collide with an obstacule,151
+23,collide with an obstacule,54
+24,collide with an obstacule,143
+25,collide with an obstacule,35
+26,reached goal,203
+27,collide with an obstacule,48
+28,reached goal,136
+29,collide with an obstacule,83
+30,collide with an obstacule,57
+31,reached goal,181
+32,reached goal,144
+33,collide with an obstacule,98
+34,reached goal,187
+35,reached goal,141
+36,collide with an obstacule,66
+37,reached goal,162
+38,reached goal,228
+39,collide with an obstacule,81
+40,reached goal,193
+41,reached goal,177
+42,collide with an obstacule,144
+43,collide with an obstacule,87
+44,collide with an obstacule,119
+45,collide with an obstacule,92
+46,collide with an obstacule,136
+47,collide with an obstacule,53
+48,reached goal,190
+49,collide with an obstacule,58
+50,collide with an obstacule,133
+51,collide with an obstacule,121
+52,reached goal,170
+53,collide with an obstacule,136
+54,reached goal,265
+55,collide with an obstacule,64
+56,reached goal,150
+57,collide with an obstacule,137
+58,collide with an obstacule,54
+59,collide with an obstacule,96
+60,reached goal,230
+61,collide with an obstacule,88
+62,collide with an obstacule,150
+63,reached goal,127
+64,collide with an obstacule,117
+65,collide with an obstacule,68
+66,reached goal,179
+67,collide with an obstacule,51
+68,reached goal,184
+69,collide with an obstacule,128
+70,collide with an obstacule,69
+71,collide with an obstacule,33
+72,collide with an obstacule,75
+73,collide with an obstacule,76
+74,collide with an obstacule,52
+75,reached goal,165
+76,collide with an obstacule,42
+77,reached goal,196
+78,collide with an obstacule,121
+79,collide with an obstacule,131
+80,reached goal,159
+81,reached goal,184
+82,collide with an obstacule,56
+83,collide with an obstacule,142
+84,collide with an obstacule,68
+85,reached goal,223
+86,collide with an obstacule,85
+87,reached goal,162
+88,reached goal,196
+89,reached goal,229
+90,collide with an obstacule,49
+91,reached goal,180
+92,collide with an obstacule,164
+93,reached goal,145
+94,reached goal,221
+95,collide with an obstacule,92
+96,collide with an obstacule,169
+97,reached goal,255
+98,collide with an obstacule,122
+99,reached goal,219
+100,collide with an obstacule,123
+101,collide with an obstacule,102
+102,collide with an obstacule,83
+103,collide with an obstacule,103
+104,reached goal,169
+105,collide with an obstacule,75
+106,collide with an obstacule,53
+107,out of bounds,7
+108,collide with an obstacule,141
+109,collide with an obstacule,130
+110,reached goal,147
+111,reached goal,158
+112,reached goal,171
+113,reached goal,159
+114,collide with an obstacule,132
+115,max iterations,303
+116,reached goal,203
+117,reached goal,214
+118,collide with an obstacule,162
+119,collide with an obstacule,112
+120,collide with an obstacule,107
+121,collide with an obstacule,173
+122,collide with an obstacule,43
+123,collide with an obstacule,49
+124,collide with an obstacule,84
+125,collide with an obstacule,117
+126,collide with an obstacule,69
+127,collide with an obstacule,145
+128,reached goal,155
+129,collide with an obstacule,154
+130,reached goal,133
+131,collide with an obstacule,83
+132,reached goal,258
+133,collide with an obstacule,71
+134,reached goal,182
+135,collide with an obstacule,98
+136,collide with an obstacule,146
+137,collide with an obstacule,86
+138,collide with an obstacule,114
+139,reached goal,206
+140,reached goal,285
+141,reached goal,157
+142,collide with an obstacule,65
+143,collide with an obstacule,110
+144,reached goal,126
+145,collide with an obstacule,96
+146,collide with an obstacule,73
+147,collide with an obstacule,77
+148,collide with an obstacule,125
+149,reached goal,154
+150,reached goal,158
+151,collide with an obstacule,69
+152,collide with an obstacule,88
+153,collide with an obstacule,141
+154,reached goal,224
+155,collide with an obstacule,178
+156,reached goal,166
+157,collide with an obstacule,82
+158,collide with an obstacule,105
+159,reached goal,227
+160,collide with an obstacule,88
+161,collide with an obstacule,160
+162,collide with an obstacule,111
+163,collide with an obstacule,140
+164,collide with an obstacule,96
+165,collide with an obstacule,69
+166,collide with an obstacule,142
+167,reached goal,271
+168,reached goal,212
+169,collide with an obstacule,128
+170,collide with an obstacule,129
+171,collide with an obstacule,74
+172,reached goal,150
+173,reached goal,144
+174,reached goal,177
+175,reached goal,152
+176,collide with an obstacule,65
+177,collide with an obstacule,167
+178,collide with an obstacule,69
+179,reached goal,131
+180,reached goal,133
+181,reached goal,185
+182,reached goal,249
+183,reached goal,188
+184,reached goal,214
+185,collide with an obstacule,78
+186,collide with an obstacule,59
+187,collide with an obstacule,58
+188,reached goal,160
+189,collide with an obstacule,100
+190,reached goal,184
+191,reached goal,207
+192,reached goal,177
+193,collide with an obstacule,66
+194,collide with an obstacule,115
+195,collide with an obstacule,94
+196,collide with an obstacule,156
+197,reached goal,235
+198,collide with an obstacule,103
+199,reached goal,239
+200,reached goal,212
+201,reached goal,165
+202,reached goal,217
+203,reached goal,123
+204,collide with an obstacule,59
+205,reached goal,190
+206,reached goal,241
+207,reached goal,242
+208,collide with an obstacule,110
+209,collide with an obstacule,104
+210,max iterations,303
+211,collide with an obstacule,79
+212,reached goal,211
+213,reached goal,205
+214,collide with an obstacule,124
+215,collide with an obstacule,111
+216,collide with an obstacule,184
+217,collide with an obstacule,62
+218,collide with an obstacule,95
+219,reached goal,232
+220,reached goal,229
+221,collide with an obstacule,146
+222,reached goal,189
+223,reached goal,241
+224,reached goal,210
+225,collide with an obstacule,60
+226,collide with an obstacule,53
+227,reached goal,133
+228,collide with an obstacule,158
+229,reached goal,166
+230,collide with an obstacule,120
+231,reached goal,113
+232,collide with an obstacule,93
+233,reached goal,134
+234,reached goal,153
+235,reached goal,251
+236,reached goal,127
+237,collide with an obstacule,152
+238,reached goal,204
+239,collide with an obstacule,144
+240,reached goal,126
+241,reached goal,110
+242,collide with an obstacule,117
+243,collide with an obstacule,110
+244,reached goal,218
+245,collide with an obstacule,72
+246,reached goal,129
+247,collide with an obstacule,113
+248,reached goal,113
+249,collide with an obstacule,90
+250,collide with an obstacule,155
+251,collide with an obstacule,57
+252,collide with an obstacule,58
+253,collide with an obstacule,73
+254,collide with an obstacule,106
+255,collide with an obstacule,162
+256,collide with an obstacule,159
+257,reached goal,121
+258,collide with an obstacule,87
+259,reached goal,204
+260,reached goal,194
+261,reached goal,114
+262,collide with an obstacule,94
+263,collide with an obstacule,123
+264,collide with an obstacule,81
+265,collide with an obstacule,92
+266,collide with an obstacule,111
+267,collide with an obstacule,74
+268,collide with an obstacule,56
+269,reached goal,117
+270,collide with an obstacule,39
+271,reached goal,139
+272,collide with an obstacule,91
+273,reached goal,115
+274,collide with an obstacule,93
+275,collide with an obstacule,69
+276,collide with an obstacule,88
+277,reached goal,178
+278,collide with an obstacule,85
+279,reached goal,204
+280,reached goal,135
+281,collide with an obstacule,133
+282,collide with an obstacule,81
+283,reached goal,164
+284,reached goal,195
+285,reached goal,235
+286,collide with an obstacule,120
+287,collide with an obstacule,43
+288,reached goal,134
+289,collide with an obstacule,130
+290,reached goal,181
+291,out of bounds,142
+292,reached goal,172
+293,collide with an obstacule,167
+294,collide with an obstacule,59
+295,collide with an obstacule,137
+296,collide with an obstacule,57
+297,collide with an obstacule,155
+298,reached goal,93
+299,collide with an obstacule,76
+300,collide with an obstacule,109
